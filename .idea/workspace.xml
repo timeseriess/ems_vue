@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="080ca16c-e18e-4911-9d97-ce222553e594" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\install\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1fzhjetdMKCU0XYa7wivozMKAT8" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/com/hxq/mapper" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Javaweb\javaEE\ems_vue\src\main\resources\com\hxq\mapper" />
+      <recent name="D:\Javaweb\javaEE\ems_vue\src\main\java\com\hxq\utils" />
+      <recent name="D:\Javaweb\javaEE\ems_vue\src\main\resources\com\hxq\sql" />
+      <recent name="D:\Javaweb\javaEE\ems_vue\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="EmsVueApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ems_vue" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hxq.EmsVueApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="080ca16c-e18e-4911-9d97-ce222553e594" name="Default Changelist" comment="" />
+      <created>1597226964139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597226964139</updated>
+      <workItem from="1597226967129" duration="8705000" />
+      <workItem from="1597281083181" duration="7986000" />
+      <workItem from="1597300086809" duration="1146000" />
+      <workItem from="1597301641520" duration="1545000" />
+      <workItem from="1597303706825" duration="1509000" />
+      <workItem from="1597319572039" duration="4945000" />
+      <workItem from="1597364716878" duration="204000" />
+      <workItem from="1597385062830" duration="7294000" />
+      <workItem from="1597406049106" duration="5094000" />
+      <workItem from="1597471348634" duration="7364000" />
+      <workItem from="1597534434603" duration="650000" />
+      <workItem from="1597651313873" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
